@@ -1,0 +1,16 @@
+C:\Users\ubaldo\.android\debug.keystore
+
+keytool -v -list -alias androiddebugkey -keystore C:\Users\ubaldo\.android\debug.keystore -storepass android -keypass android
+
+MD5:
+A7:B7:EF:3A:3A:1A:5B:15:D4:D4:CF:74:B5:9A:09:9B
+
+ <com.google.android.maps.MapView
+                 android:layout_width="fill_parent"
+                 android:layout_height="fill_parent"
+                 android:apiKey="0ap-0bNHy_wLvznkmClaG5iqOjr9KrrH3xocLoA"
+                 />
+
+
+clave API Mapas: 
+0ap-0bNHy_wLvznkmClaG5iqOjr9KrrH3xocLoA

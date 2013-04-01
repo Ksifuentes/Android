@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">FormularioSimple</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="title_activity_main">Formulario Simple</string>
+    <string name="nombre">Nombre:</string>
+    <string name="enviar">Enviar:</string>
+</resources>

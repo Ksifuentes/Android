@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">DialogoProgresoSpinner</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ManejoDialogosSpinner</string>
+    <string name="mostrar">Mostrar Diálogo Spinner</string>
+
+</resources>

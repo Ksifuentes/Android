@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">DialogoPersonalizado</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">DialogoPersonalizado</string>
+    <string name="dialogo">DialogoPersonalizado</string>
+    <string name="mostrar">Mostrar Diálogo</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">ConfiguracionWidget</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ConfiguracionWidget</string>
+    <string name="abrir">Abrir URL</string>
+    <string name="title_activity_configuracion">Configuracion</string>
+    <string name="crear">Crear Widget</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">ManejoItents</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="enviar">Enviar</string>
+    <string name="saludo">Nueva Actividad</string>
+    <string name="title_activity_ayuda_actividad">AyudaActividad</string>
+    <string name="ayuda">Actividad de Ayuda</string>
+    <string name="boton_ayuda">Botón Ayuda</string>
+    <string name="textoAyuda">En esta pantalla es donde agregaremos los textos de ayuda de la aplicación. Únicamente es de forma ilustrativa.</string>
+
+</resources>

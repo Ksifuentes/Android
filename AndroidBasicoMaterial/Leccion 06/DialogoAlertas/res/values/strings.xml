@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">ManejoDialogos</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="title_activity_main">ManejoDialogos</string>
+    <string name="mostrar">Mostrar Diálogo</string>
+
+</resources>

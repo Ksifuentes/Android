@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">PasoParametrosIntent</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="title_activity_main">Paso Parámetros Intent</string>
+    <string name="enviar">Enviar</string>
+    <string name="escribe">Escribe</string>
+    <string name="title_activity_segunda_actividad">Segunda Actividad</string>
+    <string name="informacion">Despliegue de Información</string>
+    <string name="resultado">Resultado</string>
+
+</resources>

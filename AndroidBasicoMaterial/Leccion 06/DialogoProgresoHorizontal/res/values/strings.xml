@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">DialogoProgresoHorizontal</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">DialogoProgresoHorizontal</string>
+    <string name="mostrar">Mostrar Diálogo Progreso</string>
+
+</resources>

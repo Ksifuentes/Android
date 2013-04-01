@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">EjemploSonido</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">EjemploSonido</string>
+    <string name="reproducir">Reproducir Audio</string>
+
+</resources>

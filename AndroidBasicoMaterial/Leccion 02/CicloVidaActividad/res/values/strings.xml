@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">CicloVidaActividad</string>
+    <string name="hello_world">Hola Mundo</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="title_activity_main">Ciclo de Vida Actividad</string>
+
+</resources>

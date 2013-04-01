@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ListaCompras</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="title_activity_main">Lista de Compras</string>
+    <string name="elementoDescripcion">Descripcion Elemento</string>
+    
+
+</resources>
